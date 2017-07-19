@@ -16,7 +16,7 @@ public static void main(String[] args){
 		System.out.println(a+b);	
 	}
 	else if(c>d){
-		System.out.println(a.substring(e));
+		System.out.println(a.substring(e)+b);
 	}
 }
 }
